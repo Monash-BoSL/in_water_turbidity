@@ -4,6 +4,12 @@
 
   (paper "A3")
 
+  (title_block
+    (title "Out of water turbidity sensor")
+    (date "2023-08-11")
+    (rev "0.1.0")
+  )
+
   (lib_symbols
     (symbol "Analog_ADC:ADS7049" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -7.62 -7.62 0)
@@ -5240,8 +5246,8 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ref35.pdf" (at 203.2 213.36 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid fd6a0057-2200-4b71-bcd4-3e77f7e63379))
-    (pin "1" (uuid fd6a0057-2200-4b71-bcd4-3e77f7e63379))
+    (pin "1" (uuid fd6a0057-2200-4b71-bcd4-3e77f7e6337a))
+    (pin "1" (uuid fd6a0057-2200-4b71-bcd4-3e77f7e6337a))
     (pin "2" (uuid 2cb71cb8-2fc4-452c-b75d-3f0c50d49d0f))
     (pin "3" (uuid bc3f279c-5d76-4e85-ae12-001b09f08693))
     (pin "4" (uuid 3291c27d-7259-4617-b094-dc4909e9a90d))
