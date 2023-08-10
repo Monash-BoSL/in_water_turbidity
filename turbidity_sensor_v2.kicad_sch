@@ -5,9 +5,10 @@
   (paper "A3")
 
   (title_block
-    (title "Out of water turbidity sensor")
+    (title "In water turbidity sensor SCH")
     (date "2023-08-11")
     (rev "0.1.0")
+    (company "Monash")
   )
 
   (lib_symbols
