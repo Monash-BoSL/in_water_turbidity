@@ -1,30 +1,34 @@
-### Footprint positions - created on Fri Sep  8 17:55:23 2023 ###
+### Footprint positions - created on Mon Nov  6 16:32:43 2023 ###
 ### Printed by KiCad version 7.0.6
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val          Package                      PosX       PosY       Rot  Side
-C1        220uF        CP_EIA-7343-43_Kemet-X   124.2076  -115.1081  180.0000  bottom
-C2        100nF        C_0402_1005Metric        118.8122  -104.0051   90.0000  bottom
-C4        220uF        CP_EIA-7343-43_Kemet-X   133.0866  -112.0599  180.0000  bottom
-C5        100nF        C_0402_1005Metric        109.3315  -107.9589  180.0000  bottom
-C7        100uF        C_1206_3216Metric        140.9006  -113.4378  -90.0000  bottom
-C8        100uF        C_1206_3216Metric        143.3407  -113.4378  -90.0000  bottom
+C1        100nF        C_0402_1005Metric        118.5546  -103.7506   90.0000  bottom
+C2        10uF         C_0603_1608Metric        132.2954  -115.0331  -90.0000  bottom
+C4        10uF         C_0603_1608Metric        129.4472  -115.1047  -90.0000  bottom
+C7        10uF         C_0603_1608Metric        127.3227  -115.0768  -90.0000  bottom
+C8        10uF         C_0603_1608Metric        125.1566  -115.0961  -90.0000  bottom
 C9        220uF        CP_EIA-7343-43_Kemet-X   126.2259  -105.0854  -90.0000  bottom
-C10       1uf          C_0603_1608Metric        144.0664  -108.0290   90.0000  bottom
-C11       220uF        CP_EIA-7343-43_Kemet-X   131.3706  -105.1850  -90.0000  bottom
-C12       100uF        C_1206_3216Metric        135.1129  -103.0705  -90.0000  bottom
-C13       100uF        C_1206_3216Metric        137.6313  -103.0787  -90.0000  bottom
-C14       100uF        C_1206_3216Metric        140.1166  -103.1749  -90.0000  bottom
-C16       100uF        C_1206_3216Metric        143.4714  -103.0280  -90.0000  bottom
-C18       100nF        C_0402_1005Metric        136.9396  -108.0677  180.0000  bottom
-C19       10uF         C_0603_1608Metric        138.8092  -108.1293   90.0000  bottom
-C20       100nF        C_1206_3216Metric        109.7224  -115.9394    0.0000  bottom
-C32       100nF        C_1206_3216Metric        103.8595  -110.5709  180.0000  bottom
+C10       1uf          C_0603_1608Metric        118.4736  -113.2264    0.0000  bottom
+C11       220uF        CP_EIA-7343-43_Kemet-X   131.1071  -105.5199  -90.0000  bottom
+C12       100uF        CP_EIA-7343-43_Kemet-X   142.3419  -105.3407  -90.0000  bottom
+C14       100nF        C_0402_1005Metric        107.7002  -113.0336  -90.0000  bottom
+C15       10uF         C_0603_1608Metric        109.3965  -113.6532  -90.0000  bottom
+C17       22uF         C_1206_3216Metric        103.9471  -114.7719  -90.0000  bottom
+C20       10uF         C_0603_1608Metric        100.8379  -105.4230   90.0000  bottom
+C21       1uF          C_0603_1608Metric        100.8267  -102.3066  -90.0000  bottom
+C22       1uF          C_0603_1608Metric        106.5249  -104.2635   90.0000  bottom
+C36       100nF        C_1206_3216Metric        103.8595  -110.5709  180.0000  bottom
+C38       100uF        CP_EIA-7343-43_Kemet-X   138.7523  -115.6296  180.0000  bottom
 R3        32K          R_0603_1608Metric        117.8010  -101.3280  180.0000  bottom
-R11       100k         R_0805_2012Metric        104.4746  -108.4402    0.0000  bottom
-R12       3.16k        R_0603_1608Metric        104.6658  -106.7032  180.0000  bottom
+R8        0.22         R_0603_1608Metric        105.8572  -113.7311   90.0000  bottom
+R11       0.22         R_0402_1005Metric        102.6248  -105.0288  180.0000  bottom
+R12       1k           R_0402_1005Metric        104.7450  -105.0288  180.0000  bottom
+R19       100k         R_0805_2012Metric        104.2416  -108.4402    0.0000  bottom
+R20       3.16k        R_0603_1608Metric        104.6658  -106.7032  180.0000  bottom
 U2        TPS2552      SOT-23-6                 121.4679  -102.9457    0.0000  bottom
-U4        TPS7A02      SOT-23-5                 141.3157  -107.6346   90.0000  bottom
+U4        TPS7A02      SOT-23-5                 122.1603  -115.1310  180.0000  bottom
 U5        TPS22917DBV  SOT-23-6                 109.0304  -105.4058   90.0000  bottom
-U8        REF35        SOT-23-6                 108.3683  -112.5390  -90.0000  bottom
+U8        REF35        SOT-23-6                 108.6789  -110.3854  180.0000  bottom
+U9        OPA320_S     SOT-23-6                 103.6372  -102.7265  180.0000  bottom
 ## End
