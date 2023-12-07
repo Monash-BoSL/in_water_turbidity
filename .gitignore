@@ -28,3 +28,5 @@ fp-info-cache
 *.xml
 *.csv
 *.lck
+~turbidity_sensor_v2.kicad_sch.lck
+~turbidity_sensor_v2.kicad_pcb.lck
