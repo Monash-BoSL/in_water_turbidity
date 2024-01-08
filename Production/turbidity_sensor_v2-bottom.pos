@@ -1,4 +1,4 @@
-### Footprint positions - created on Mon Jan  8 15:28:23 2024 ###
+### Footprint positions - created on Mon Jan  8 15:45:13 2024 ###
 ### Printed by KiCad version 7.0.6
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -28,6 +28,8 @@ R11       0.22         R_0402_1005Metric        102.6248  -105.0288  180.0000  b
 R12       1k           R_0402_1005Metric        104.7450  -105.0288  180.0000  bottom
 R19       100k         R_0805_2012Metric        104.2416  -108.4402    0.0000  bottom
 R20       3.16k        R_0603_1608Metric        104.6658  -106.7032  180.0000  bottom
+R27       330          R_0402_1005Metric        112.6904  -114.8330  180.0000  bottom
+R28       330          R_0402_1005Metric        111.7449  -112.6924  -90.0000  bottom
 U2        TPS2552      SOT-23-6                 121.4679  -102.9457    0.0000  bottom
 U4        TPS7A02      SOT-23-5                 122.1603  -115.1310  180.0000  bottom
 U5        TPS22917DBV  SOT-23-6                 109.0304  -105.4058   90.0000  bottom
