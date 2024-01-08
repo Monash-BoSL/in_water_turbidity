@@ -1,4 +1,4 @@
-### Footprint positions - created on Mon Nov  6 16:55:20 2023 ###
+### Footprint positions - created on Mon Jan  8 15:28:23 2024 ###
 ### Printed by KiCad version 7.0.6
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -27,13 +27,13 @@ D1        TSAL6200             LED_D5.0mm                                     14
 D2        SFH203FA             LED_D5.0mm_IRGrey                              101.2518  -115.3298   90.0000  top
 D3        TSAL6200             LED_D5.0mm                                     145.6586  -108.8802   90.0000  top
 J1        Conn_02x03_Odd_Even  PinHeader_2x03_P1.27mm_Vertical                113.4626  -113.0824   90.0000  top
-J3        Conn_02x03_Odd_Even  PinHeader_2x03_P2.00mm_Vertical                112.9316  -102.6614    0.0000  top
+J2        Conn_02x03_Odd_Even  PinHeader_2x03_P2.54mm_Vertical                112.9316  -102.6614    0.0000  top
 Q1        CSD16301Q2           Texas_DQK                                      143.1382  -115.8864  -90.0000  top
 Q2        CSD16301Q2           Texas_DQK                                      140.7287  -109.0703  -90.0000  top
-R1        100K                 R_0603_1608Metric                              115.8683  -108.9947    0.0000  top
+R1        100K                 R_0603_1608Metric                              120.7043  -113.5498   90.0000  top
 R2        100K                 R_0603_1608Metric                              119.0552  -105.1081  180.0000  top
 R4        10k                  R_0603_1608Metric                              117.2228  -102.7594  -90.0000  top
-R5        4.7K                 R_0402_1005Metric                              112.6822  -115.6358   90.0000  top
+R5        330                  R_0402_1005Metric                              113.1676  -115.2749  180.0000  top
 R6        4.7K                 R_0603_1608Metric                              126.3710  -103.0736   90.0000  top
 R7        4.7K                 R_0603_1608Metric                              121.9760  -103.0305   90.0000  top
 R9        25                   R_0603_1608Metric                              104.9565  -111.2218  -90.0000  top
@@ -58,5 +58,5 @@ U10       OPA2320_S            VSSOP-10_3x3mm_P0.5mm                          13
 U11       LM2776               SOT-23-6                                       104.5386  -104.0454   90.0000  top
 U12       LM2776               SOT-23-6                                       103.6100  -107.9254  180.0000  top
 U13       OPA328               SOT-23-5                                       108.3564  -108.0516    0.0000  top
-Y1        8Mhz                 Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm   119.1322  -111.6892  -90.0000  top
+Y1        8Mhz                 Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm   118.5488  -111.6907  -90.0000  top
 ## End
